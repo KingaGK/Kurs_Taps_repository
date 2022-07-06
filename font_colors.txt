@@ -1,0 +1,4 @@
+#0000FF blue
+#66FF66 light green
+#FFFF00 yellow
+#FF0000 red
