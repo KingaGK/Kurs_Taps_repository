@@ -1,0 +1,5 @@
+Red	#FF0000
+Blue	#0000FF
+Yellow	#FFFF00
+Green	#008000
+Black	#000000
